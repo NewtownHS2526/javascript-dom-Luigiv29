@@ -2,3 +2,7 @@
 // TODO: Declare a variable without a value
 // TODO: Print both
 
+let initialized = "token"
+let uninitialized;
+console.log(initialized)
+console.log(uninitialized)
