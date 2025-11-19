@@ -4,3 +4,4 @@
 let age = 45;
 let city = "nebraska city";
 let isStudent = true;
+console.log(age, city, isStudent)
